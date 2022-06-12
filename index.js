@@ -1,3 +1,4 @@
+//Tipos de dados em Node.js
 const somosCasados = true //varíavel boolean 0 ou 1, true ou false
 const anoNascimento = 1997 //varíavel number
 const media = (7+8+9+10) /4 //float number
